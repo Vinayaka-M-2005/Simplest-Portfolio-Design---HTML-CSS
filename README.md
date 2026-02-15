@@ -2,6 +2,12 @@
 
 Welcome to the **Simplest Portfolio Design** project! This is a beginner-friendly portfolio template built using only **HTML** and **CSS**. It's a great starting point for anyone looking to create a clean, responsive portfolio website without the need for complex frameworks or libraries.
 
+### Before (Original design) 
+![Portfolio Screenshot](https://github.com/onepiece-coding/Simplest-Portfolio-Design---HTML-CSS/blob/main/Screenshot.png)
+
+### After (Improved Design)
+![New Screenshot](update-img.png)
+
 ![Portfolio Screenshot](https://github.com/onepiece-coding/Simplest-Portfolio-Design---HTML-CSS/blob/main/Screenshot.png)
 
 ## Features
@@ -67,3 +73,9 @@ This project was created as part of a tutorial on our YouTube channel [OnePiece 
 If you find this project helpful, please give it a ⭐️ on GitHub and subscribe to our YouTube channel [OnePiece Coding](https://www.youtube.com/@OnePieceCoding) for more tutorials like this!
 
 Happy Coding! 🚀
+
+## ✨ Modifications
+
+This project has been enhanced with modern UI improvements, updated styling, and layout refinements.
+
+Upgraded and customized by Vinayaka.
